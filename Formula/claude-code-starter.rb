@@ -4,8 +4,8 @@
 class ClaudeCodeStarter < Formula
   desc "Production-ready Claude Code configuration"
   homepage "https://github.com/zbruhnke/claude-code-starter"
-  url "https://github.com/zbruhnke/claude-code-starter/archive/refs/tags/v0.8.4.tar.gz"
-  sha256 "b2b181c68dbe71df8c779336fffaa75e0561482d43b564e8845a7698733f35cd"
+  url "https://github.com/zbruhnke/claude-code-starter/archive/refs/tags/v0.8.5.tar.gz"
+  sha256 "91c6f6cd76161d7494f03cf8078cd08d0cad5f9c49e440c8cb8e72850eb0a07e"
   license "MIT"
 
   def install
